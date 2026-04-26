@@ -1,4 +1,4 @@
-# automatic-fire-fighting-robot-arduino
+# 🔥 Automatic Fire Fighting Robot using Arduino Uno
 
 An autonomous robot that detects fire, moves toward the flame source, and extinguishes it automatically using a water pump and rotating servo nozzle.
 
